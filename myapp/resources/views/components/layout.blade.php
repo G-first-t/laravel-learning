@@ -6,11 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-   <nav>
-    <x-link href='/'>Home</x-link>
-    <x-link href='/about'>About</x-link>
-    <x-link href='/contact'>Contact</x-link>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
     </nav>
-    {{ $slot}}
+     {{$slot}}
 </body>
-</html>
