@@ -21,7 +21,7 @@
       <div class="flex h-16 items-center justify-between">
         <div class="flex items-center">
           <div class="flex-shrink-0">
-            <img class="h-8 w-8" src="https://i.pinimg.com/474x/3d/e4/15/3de415fafea8662933a29a18071b6ed5.jpg" alt="Your Company">
+            <img class="h-8 w-8" src="https://i.pinimg" alt="Your Company">
           </div>
           <div class="hidden md:block">
             <div class="ml-10 flex items-baseline space-x-4">
