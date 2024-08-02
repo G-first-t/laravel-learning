@@ -1,3 +1,3 @@
 <x-layout>
-    <h1>Index page</h1>
+    <h1>Hello from Index page</h1>
 </x-layout>
